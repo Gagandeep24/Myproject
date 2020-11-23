@@ -12,3 +12,7 @@ a:hover{
     font-weight: bold;
     color: green;
 }
+#main img{
+    width: 600px;
+    height: 650px;
+}
