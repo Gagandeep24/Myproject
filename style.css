@@ -1,6 +1,4 @@
-body{
-    background-color: navajowhite;
-}
+
 #header h1{
     color: darkmagenta;
 }
@@ -15,4 +13,11 @@ a:hover{
 #main img{
     width: 600px;
     height: 650px;
+}
+th{
+    
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black ;
 }
