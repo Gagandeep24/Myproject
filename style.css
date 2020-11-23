@@ -1,6 +1,14 @@
 body{
-    background-color: aqua;
+    background-color: navajowhite;
 }
 #header h1{
-    color:peru;
+    color: darkmagenta;
+}
+a{
+    border: 2px ridge black;
+    padding: 10px;
+}
+a:hover{
+    font-weight: bold;
+    color: green;
 }
