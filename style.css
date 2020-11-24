@@ -1,4 +1,6 @@
-
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 #header h1{
     color: darkmagenta;
 }
@@ -20,4 +22,11 @@ th{
 }
 td{
     border: 1px solid black ;
+}
+.table ul,ol{
+    display: inline-block;
+    margin-left: 20%;
+}
+.table dl{
+    margin-left: 20%;
 }
